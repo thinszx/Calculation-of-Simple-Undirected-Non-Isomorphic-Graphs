@@ -31,4 +31,4 @@ Term project of my Mathematical Foundations in Information Security course. Uplo
 
 ![](https://www.zhihu.com/equation?tex=g^k)的类型为![](https://www.zhihu.com/equation?tex=1%5e%7bk_1%7d2%5e%7bk_2%7d+%5ccdots+n%5e%7bk_n%7d)，![](https://www.zhihu.com/equation?tex=o(g))为![](https://www.zhihu.com/equation?tex=g)的阶
 
-注：若![](https://www.zhihu.com/equation?tex=%5clambda_%7bk1%7d+%3c+2%24%ef%bc%8c%24%7bC%5e2_%7b%5clambda_%7bk1%7d%7d%7d)取![](https://www.zhihu.com/equation?tex=0)
+注：若![](https://www.zhihu.com/equation?tex=%5clambda_%7bk1%7d+%3c+2)，![](https://www.zhihu.com/equation?tex=%7bC%5e2_%7b%5clambda_%7bk1%7d%7d%7d)取![](https://www.zhihu.com/equation?tex=0)
