@@ -1,4 +1,4 @@
-# Calculation-of-Simple-Undirected-Isomorphic-Graphs
+# Calculation-of-Simple-Undirected-Non-Isomorphic-Graphs
 信安数基大作业，闲来无事发到gtihub上
 
 Term project of my Mathematical Foundations in Information Security course. Uploading this code because I'm trying to archive all my projects on GitHub from now on and this project is a flag.
